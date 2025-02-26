@@ -1,0 +1,16 @@
+{
+  "name": "ferramentaria-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "start": "electron main.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "electron": "^34.3.0",
+    "sqlite3": "^5.1.7"
+  }
+}
